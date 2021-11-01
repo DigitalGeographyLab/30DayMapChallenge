@@ -1,0 +1,12 @@
+geom_from_wkt(
+    'MULTIPOINT(' 
+    || array_to_string(
+        array_foreach(
+            generate_series(1,  "vaesto"), 
+            to_string(rand(x_min($geometry), x_max($geometry))) 
+            || ' '
+            || to_string(rand(y_min($geometry), y_max($geometry)))
+        )
+    )
+    || ')'
+)
