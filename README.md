@@ -14,7 +14,7 @@ This repository is going to fill with beautiful maps over the course of November
 
 ## 2 November 2021: lines
 
-![A map showing South America represented by Lines](2021/11/02/2_lines_rivers middle contrast.png)
+![A map showing South America represented by Lines](2021/11/02/2_lines_rivers%20middle%20contrast.png)
 
 - Tools: [QGIS](https://qgis.org)
 - Data: [Global River Database](http://gaia.geosci.unc.edu/rivers/)
