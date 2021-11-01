@@ -11,3 +11,10 @@ This repository is going to fill with beautiful maps over the course of November
 
 - Tools: [QGIS](https://qgis.org)
 - Data: [Statistics Finland](https://stat.fi/org/avoindata/paikkatietoaineistot_en.html), [City of Helsinki](https://kartta.hel.fi/avoindata)/[Helsinki Region Infoshare](https://hri.fi/data/fi/dataset/seutukartta).
+
+## 2 November 2021: lines
+
+![A map showing South America represented by Lines](2021/11/02/2_lines_rivers middle contrast.png)
+
+- Tools: [QGIS](https://qgis.org)
+- Data: [Global River Database](http://gaia.geosci.unc.edu/rivers/)
