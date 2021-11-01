@@ -9,5 +9,5 @@ This repository is going to fill with beautiful maps over the course of November
 
 ![A map showing the population of Helsinki, Finland, with one dot representing one person.](2021/11/01/helsinki_population_2020_1pixel1person_1200x675px.png)
 
-Tools: [QGIS](https://qgis.org)
-Data: [Statistics Finland](https://stat.fi/org/avoindata/paikkatietoaineistot_en.html), [City of Helsinki](https://kartta.hel.fi/avoindata)/[Helsinki Region Infoshare](https://hri.fi/data/fi/dataset/seutukartta).
+- Tools: [QGIS](https://qgis.org)
+- Data: [Statistics Finland](https://stat.fi/org/avoindata/paikkatietoaineistot_en.html), [City of Helsinki](https://kartta.hel.fi/avoindata)/[Helsinki Region Infoshare](https://hri.fi/data/fi/dataset/seutukartta).
