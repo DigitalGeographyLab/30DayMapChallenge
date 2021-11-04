@@ -18,3 +18,11 @@ This repository is going to fill with beautiful maps over the course of November
 
 - Tools: [QGIS](https://qgis.org)
 - Data: [Global River Database](http://gaia.geosci.unc.edu/rivers/)
+
+
+## 3 November 2021: polygons:
+
+![A map showing Helsinki, illustrating the daytime noise levels in the city](2021/11/03/Day3_polygons.png)
+
+- Tools: [QGIS](https://qgis.org)
+- Data: [SYKE/avoindata.fi](https://www.avoindata.fi/data/en_GB/dataset/ymparistomeludirektiivin-mukaiset-melualueet-2017)
