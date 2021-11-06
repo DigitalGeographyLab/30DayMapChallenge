@@ -50,3 +50,4 @@ This repository is going to fill with beautiful maps over the course of November
 
 - Tools: [QGIS](https://qgis.org/), [Inkscape](https://inkscape.org/)
 - Data: [IUCN Red List](https://www.iucnredlist.org/resources/spatial-data-download), [Natural Earth Data](https://naturalearthdata.com/)
+
