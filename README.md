@@ -36,3 +36,18 @@ This repository is going to fill with beautiful maps over the course of November
 - Data: collected from eBird, OLX, and YouTube; available from the authors upon request.
 - Published in Fink, C., Toivonen, T., Correia, R. A., & Di Minin, E. (2021). Mapping the online songbird trade in Indonesia. Applied Geography 134. [DOI: 10.1016/j.apgeog.2021.102505](https://doi.org/10.1016/j.apgeog.2021.102505)
 
+
+## 5 November 2021: data challenge OpenStreetMap
+
+![A map of the buildings in inner-city Helsinki, colour-coded by how square or round their footprint geometry is](2021/11/05/squareness_map_1200x675_darksea.png)
+
+- Tools: [QGIS](https://qgis.org/), [pyrosm](https://github.com/HTenkanen/pyrosm/), [momepy](https://github.com/pysal/momepy/)
+- Data: [OpenStreetmap](https://osm.org/)
+
+## 6 November 2021: red
+
+![A map of Africa coloured in different shades of red. The darker the tint, the more species ranges of threatened amphibians, reptiles, and terrestrial mammals overlap.](2021/11/06/threatened_species_1200x675.png)
+
+- Tools: [QGIS](https://qgis.org/), [Inkscape](https://inkscape.org/)
+- Data: [IUCN Red List](https://www.iucnredlist.org/resources/spatial-data-download), [Natural Earth Data](https://naturalearthdata.com/)
+
