@@ -44,9 +44,40 @@ This repository is going to fill with beautiful maps over the course of November
 - Tools: [QGIS](https://qgis.org/), [pyrosm](https://github.com/HTenkanen/pyrosm/), [momepy](https://github.com/pysal/momepy/)
 - Data: [OpenStreetmap](https://osm.org/)
 
+
 ## 6 November 2021: red
 
 ![A map of Africa coloured in different shades of red. The darker the tint, the more species ranges of threatened amphibians, reptiles, and terrestrial mammals overlap.](2021/11/06/threatened_species_1200x675.png)
 
 - Tools: [QGIS](https://qgis.org/), [Inkscape](https://inkscape.org/)
 - Data: [IUCN Red List](https://www.iucnredlist.org/resources/spatial-data-download), [Natural Earth Data](https://naturalearthdata.com/)
+
+
+## 7 November 2021: green
+
+![A map of Helsinki metropolitan area with the street network drawn in different shades of green, according to the Green View Index, that was calculated using StreetView images](2021/11/07/FinalGreeneryMap.png)
+
+- Tools: [QGIS](https://qgis.org/), [GIMP](https://gimp.org/)
+- Data: [Toikka et al., 2020](https://doi.org/10.1016/j.dib.2020.105601), [Helsinki Region Infoshare](https://hri.fi/data/fi/dataset/seutukartta)
+
+
+## 8 November 2021: blue
+
+![A map of Ecuador: blue lines on dark background, the country’s river network.](2021/11/08/30daysmapchallenge-blue.png)
+
+- Data: [Andreadis et al., 2013](https://doi.org/10.1002/wrcr.20440)
+
+
+## 9 November 2021: monochrome
+
+![A map of Europe, the countries of the European Union shown in different intensities of grey, according to how much their terrestrial protected area network would need to be expanded to meet the EU’s 30 ⨉ 30 target.](2021/11/09/EU_white_DGL_data.png)
+
+- Data: [Protected Planet](https://www.protectedplanet.net/)
+- Tools: [QGIS](https://qgis.org/)
+
+
+## 10 November 2021: raster
+
+![A map of Ranomafana National Park (Madagascar) showing deforestation in three panels: forest loss, fire incidence, and burned area.](2021/11/10/mapchallenge-2021.jpg)
+
+- Data: [Ghislain Vieilledent](https://ecology.ghislainv.fr/), [MODIS](https://modis.gsfc.nasa.gov/)
