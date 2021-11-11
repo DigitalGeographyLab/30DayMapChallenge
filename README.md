@@ -123,6 +123,3 @@ Like or retweet this map on Twitter: [https://twitter.com/digigeolab/status/1458
 - Data: [HSL](https://www.hsl.fi/en/hsl/open-data#journeys-made-by-city-bikes), [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)
 
 Like or retweet this map on Twitter: [https://twitter.com/digigeolab/status/1458725195800367109](https://twitter.com/digigeolab/status/1458725195800367109)
-
-
-
