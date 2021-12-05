@@ -150,15 +150,7 @@ Like or retweet this map on Twitter: [https://twitter.com/digigeolab/status/1459
 
 ![A map drawing with colourful chalk on concrete tiles, photo taken from above, people standing around the map.](2021/11/15/DigitalGeographyLab.jpg)
 
-![A drone filming while slowly descending on a chalk-drawn map on concrete tiles, in front of the Physicum building of the University of Helsinki](2021/11/15/DigitalGeographyLab.mp4)
-
-<video width="640" height="480" controls>
-  <source src="2021/11/15/DigitalGeographyLab.mp4" type="video/mp4">
-</video>
-
-https://github.com/DigitalGeographyLab/30DayMapChallenge/tree/days13-30/2021/11/15/DigitalGeographyLab.mp4
-
-2021/11/15/DigitalGeographyLab.mp4
+https://user-images.githubusercontent.com/4998473/144753543-3eea6b8d-ac59-4465-9956-11b4725876be.mp4
 
 - Map: Digital Geography Lab
 - Data: our heads
