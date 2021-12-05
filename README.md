@@ -152,6 +152,10 @@ Like or retweet this map on Twitter: [https://twitter.com/digigeolab/status/1459
 
 ![A drone filming while slowly descending on a chalk-drawn map on concrete tiles, in front of the Physicum building of the University of Helsinki](2021/11/15/DigitalGeographyLab.mp4)
 
+<video width="640" height="480" controls>
+  <source src="2021/11/15/DigitalGeographyLab.mp4" type="video/mp4">
+</video>
+
 - Map: Digital Geography Lab
 - Data: our heads
 - Tools: street chalk, balloons, people
