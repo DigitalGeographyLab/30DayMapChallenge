@@ -118,8 +118,59 @@ Like or retweet this map on Twitter: [https://twitter.com/digigeolab/status/1458
 
 ![A birds-eye view of Helsinki metropolitan area with arcs connecting individual bike sharing system stations with each other, their thickness and height according to the volume of bike rides between them.](2021/11/11/bike-moves-helsinki.png)
 
-- Map: Brian R. Vallejo
+- Map: Bryan R. Vallejo
 - Tools: [pandas](https://pandas.org/), [geopandas](https://geopandas.org), [KeplerGL](https://kepler.gl), [mapbox](https://mapbox.com/)
 - Data: [HSL](https://www.hsl.fi/en/hsl/open-data#journeys-made-by-city-bikes), [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)
 
 Like or retweet this map on Twitter: [https://twitter.com/digigeolab/status/1458725195800367109](https://twitter.com/digigeolab/status/1458725195800367109)
+
+
+## 12 November 2021: population
+
+![A map showing the origin countries of people visiting Finland (with arcs connecting origin countries and Finland, the arcs’ width equivalent to the number of visitors)](2021/11/12/Visitors_to_Finland_Twitter_2011-2019.jpg)
+
+- Map: Bryan R. Vallejo, Olle Järv
+- Data: [Natural Earth Data](https://naturalearthdata.com/), Twitter
+
+Like or retweet this map on Twitter: [https://twitter.com/digigeolab/status/1459104298458095627](https://twitter.com/digigeolab/status/1459104298458095627)
+
+
+## 14 November 2021: map with a new tool
+
+![An anamorphic map of Nordic countries, with the area of NUTS-2 regions distorted to reflect the volume of tweets originating from each region.](2011/11/14/Tweetscape_of_the_Nordics.jpg)
+
+- Map: Bryan R. Vallejo, Håvard Aagesen
+- Data: [Natural Earth Data](https://naturalearthdata.com/), Twitter
+- Tools: [QGIS](https://qgis.org/), [cartogram plugin](https://github.com/austromorph/cartogram3)
+
+Like or retweet this map on Twitter: [https://twitter.com/digigeolab/status/1459906674626551812](https://twitter.com/digigeolab/status/1459906674626551812)
+
+
+## 15 November 2021: map made without a computer
+
+![A map drawing with colourful chalk on concrete tiles, photo taken from above, people standing around the map.](2021/11/15/DigitalGeographyLab.jpg)
+
+https://user-images.githubusercontent.com/4998473/144753543-3eea6b8d-ac59-4465-9956-11b4725876be.mp4
+
+- Map: Digital Geography Lab
+- Data: our heads
+- Tools: street chalk, balloons, people
+
+Like or retweet this map on Twitter: [https://twitter.com/digigeolab/status/1460228765422952449](https://twitter.com/digigeolab/status/1460228765422952449)
+
+
+## 17 November 2021: land
+
+![A map of KwaZulu-Natal, South Africa, showing costs of running the province’s protected areas in charts](2021/11/17/Land_Revenues_costs_protected_areas_landscape.png)
+
+- Map: Marisofia Nurmi
+
+Like or retweet this map on Twitter: [https://twitter.com/digigeolab/status/1460872638788739072](https://twitter.com/digigeolab/status/1460872638788739072)
+
+
+## 19 November 2021: island
+
+![A map of Madagascar, showing deforestation pressure on the world’s fourth-largest island’s protected areas](Mada_map_PA_eff.jpg)
+
+- Map: Johanna Eklund
+- Data: Eklund, J., Coad, L., Geldmann, J., & Cabeza, M. (2019). What constitutes a useful measure of protected area effectiveness? A case study of management inputs and protected area impacts in Madagascar. Conservation Science and Practice, 1(10). [DOI:10.1111/csp2.107](https://doi.org/10.1111/csp2.107)
