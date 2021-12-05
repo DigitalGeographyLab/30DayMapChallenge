@@ -173,4 +173,4 @@ Like or retweet this map on Twitter: [https://twitter.com/digigeolab/status/1460
 ![A map of Madagascar, showing deforestation pressure on the world’s fourth-largest island’s protected areas](2021/11/19/Mada_map_PA_eff.jpg)
 
 - Map: Johanna Eklund
-- Data: Eklund, J., Coad, L., Geldmann, J., & Cabeza, M. (2019). What constitutes a useful measure of protected area effectiveness? A case study of management inputs and protected area impacts in Madagascar. Conservation Science and Practice, 1(10). [DOI:10.1111/csp2.107](https://doi.org/10.1111/csp2.107)
+- Data and further reading: Eklund, J., Coad, L., Geldmann, J., & Cabeza, M. (2019). What constitutes a useful measure of protected area effectiveness? A case study of management inputs and protected area impacts in Madagascar. Conservation Science and Practice, 1(10). [DOI:10.1111/csp2.107](https://doi.org/10.1111/csp2.107)
