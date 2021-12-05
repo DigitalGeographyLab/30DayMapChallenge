@@ -159,10 +159,18 @@ https://user-images.githubusercontent.com/4998473/144753543-3eea6b8d-ac59-4465-9
 Like or retweet this map on Twitter: [https://twitter.com/digigeolab/status/1460228765422952449](https://twitter.com/digigeolab/status/1460228765422952449)
 
 
-## 17 November 2021: 
+## 17 November 2021: land
 
 ![A map of KwaZulu-Natal, South Africa, showing costs of running the province’s protected areas in charts](2021/11/17/Land_Revenues_costs_protected_areas_landscape.png)
 
 - Map: Marisofia Nurmi
 
 Like or retweet this map on Twitter: [https://twitter.com/digigeolab/status/1460872638788739072](https://twitter.com/digigeolab/status/1460872638788739072)
+
+
+## 19 November 2021: island
+
+![A map of Madagascar, showing deforestation pressure on the world’s fourth-largest island’s protected areas](Mada_map_PA_eff.jpg)
+
+- Map: Johanna Eklund
+- Data: Eklund, J., Coad, L., Geldmann, J., & Cabeza, M. (2019). What constitutes a useful measure of protected area effectiveness? A case study of management inputs and protected area impacts in Madagascar. Conservation Science and Practice, 1(10). [DOI:10.1111/csp2.107](https://doi.org/10.1111/csp2.107)
