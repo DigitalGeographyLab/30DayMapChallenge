@@ -156,6 +156,10 @@ Like or retweet this map on Twitter: [https://twitter.com/digigeolab/status/1459
   <source src="2021/11/15/DigitalGeographyLab.mp4" type="video/mp4">
 </video>
 
+https://github.com/DigitalGeographyLab/30DayMapChallenge/tree/days13-30/2021/11/15/DigitalGeographyLab.mp4
+
+2021/11/15/DigitalGeographyLab.mp4
+
 - Map: Digital Geography Lab
 - Data: our heads
 - Tools: street chalk, balloons, people
